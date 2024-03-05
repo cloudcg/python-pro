@@ -1,5 +1,5 @@
 # Create-rpm
-> For python project
+> For Python create RPM pakage.
 
 代码提供了一个基本的框架来创建RPM包，但它仍然需要根据具体需求进行进一步的定制和测试。以下是一些可能需要关注的方面：
 
